@@ -5,8 +5,10 @@ This repository contains Python implementation of the paper: An Examination of t
 [An Examination of the Alleged Privacy Threats of Confidence-Ranked Reconstruction of Census Microdata]()
 
 ## Content
-The repository contains one jupyter notebook (`Ours_CIFAR10-ResNet18.IPYNB`) that contains code and instructions on how to re-produce the experiments reported in the paper for the benchmark under the Input-aware Dynamic backdoor attack (IAD). 
-Also, models modified to extract intermediate features are available in the folder `my_models`.
+The repository contains the code required to reproduce the aanalysis results provided in the paper.
+Our experiments make use of the codebase found in After downloading [Confidence-Ranked Reconstruction of Census Microdata from Published Statistics]([https://ieeexplore.ieee.org/document/6033395/](https://github.com/terranceliu/rap-rank-reconstruction)https://github.com/terranceliu/rap-rank-reconstruction).
+After cloning the code from that repository, please move the folder `analysis` in this repo to the root folder of the cloned repo.
+In the folder `analysis`, there are Jupyter notebooks in `.IPYNB` that can be used to perform the analysis on the obtained results.
 
 
 
