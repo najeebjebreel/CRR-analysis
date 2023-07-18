@@ -6,7 +6,7 @@ This repository contains Python implementation of the paper: An Examination of t
 
 ## Content
 The repository contains the code required to reproduce the aanalysis results provided in the paper.
-Our experiments make use of the codebase found in After downloading [Confidence-Ranked Reconstruction of Census Microdata from Published Statistics]([https://ieeexplore.ieee.org/document/6033395/](https://github.com/terranceliu/rap-rank-reconstruction)https://github.com/terranceliu/rap-rank-reconstruction).
+Our experiments make use of the codebase found in After downloading [Confidence-Ranked Reconstruction of Census Microdata from Published Statistics] (https://github.com/terranceliu/rap-rank-reconstruction).
 After cloning the code from that repository, please move the folder `analysis` in this repo to the root folder of the cloned repo.
 In the folder `analysis`, there are Jupyter notebooks in `.IPYNB` that can be used to perform the analysis on the obtained results.
 
