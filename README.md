@@ -2,7 +2,7 @@
 This repository contains Python implementation of the paper: An Examination of the Alleged Privacy Threats of Confidence-Ranked Reconstruction of Census Microdata.
 
 ## Paper 
-[An Examination of the Alleged Privacy Threats of Confidence-Ranked Reconstruction of Census Microdata]()
+[An Examination of the Alleged Privacy Threats of Confidence-Ranked Reconstruction of Census Microdata](https://arxiv.org/pdf/2311.03171.pdf)
 
 ## Content
 The repository hosts the necessary code to replicate the analysis outcomes presented in the research paper. To conduct our experiments, we utilized the codebase available at [Confidence-Ranked Reconstruction of Census Microdata from Published Statistics](https://github.com/terranceliu/rap-rank-reconstruction).
